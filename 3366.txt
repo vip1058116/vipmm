@@ -1,55 +1,55 @@
-﻿央视,#genre#
-CCTV-1综合,http://111.20.35.107:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=3
-CCTV-1综合,http://111.20.35.107:6610/000000001000/5000000004000002226/index.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=3
-CCTV-1综合,http://111.20.35.107:6610/000000001000/5000000010000030810/index.m3u8?channel-id=ystenlive&Contentid=5000000010000030810&livemode=1&stbId=3
-CCTV-2财经,http://111.20.35.107:6610/000000001000/1000000001000012442/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=3
-CCTV-3综艺,http://111.20.35.107:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=3
-CCTV-3综艺,http://111.20.35.107:6610/000000001000/5000000002000020548/index.m3u8?channel-id=bestzb&Contentid=5000000002000020548&livemode=1&stbId=3
-CCTV-4国际,http://111.20.35.107:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3
-CCTV-5体育,http://111.20.35.107:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3
-CCTV-5体育,http://111.20.35.107:6610/000000001000/5000000010000016619/index.m3u8?channel-id=bestzb&Contentid=5000000010000016619&livemode=1&stbId=3
-CCTV-5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5+体育,http://111.20.35.107:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3
-CCTV-5+体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV-6电影,http://111.20.35.107:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
-CCTV-6电影,http://111.20.35.107:6610/000000001000/5000000010000018433/index.m3u8?channel-id=bestzb&Contentid=5000000010000018433&livemode=1&stbId=3
-CCTV-6电影,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
-CCTV-7军事,http://111.20.35.107:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=3
-CCTV-8电视剧,http://111.20.35.107:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=3
-CCTV-8电视剧,http://111.20.35.107:6610/000000001000/5000000010000018377/index.m3u8?channel-id=bestzb&Contentid=5000000010000018377&livemode=1&stbId=3
-CCTV-9记录,http://111.20.35.107:6610/000000001000/1000000001000014583/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
-CCTV-9记录,http://111.20.35.107:6610/000000001000/6275371742726901431/index.m3u8?channel-id=ystenlive&Contentid=6275371742726901431&livemode=1&stbId=3
-CCTV-10科教,http://111.20.35.107:6610/000000001000/1000000001000026367/index.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1&stbId=3
-CCTV-10科教,http://111.20.35.107:6610/000000001000/5000000004000012827/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
-CCTV-10科教,http://111.20.35.107:6610/000000001000/5000000010000016738/index.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
-CCTV-11戏曲,http://111.20.35.107:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3
-CCTV-11戏曲,http://111.20.35.107:6610/000000001000/6351457414282570521/index.m3u8?channel-id=ystenlive&Contentid=6351457414282570521&livemode=1&stbId=3
-CCTV-12社会与法,http://111.20.35.107:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=3
-CCTV-13新闻,http://111.20.35.107:6610/000000001000/5000000005000001827/index.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
-CCTV-14少儿,http://111.20.35.107:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
-CCTV-14少儿,http://111.20.35.107:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
-CCTV-14少儿,http://111.20.35.107:6610/000000001000/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
-CCTV-15音乐,http://111.20.35.107:6610/000000001000/1000000002000008163/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=3
-CCTV-17农业农村,http://111.20.35.107:6610/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=3
-CGTN,http://111.20.35.107:6610/000000001000/1000000002000009569/index.m3u8?channel-id=ystenlive&Contentid=1000000002000009569&livemode=1&stbId=3
+央视，#流派#
+CCTV-1综合，http://111 . 20 . 35 . 107:6610/000000001000/100000001000021973/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000021973 & live mode = 1 & stbId = 3
+CCTV-1综合，http://111 . 20 . 35 . 107:6610/000000001000/500000004000002226/index . m3 u8？channel-id = bestzb & Contentid = 5000000004000002226 & live mode = 1 & stbId = 3
+CCTV-1综合，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000030810/index . m3 u8？channel-id = ystenlive & Contentid = 5000000010000030810 & live mode = 1 & stbId = 3
+CCTV-2财经，http://111 . 20 . 35 . 107:6610/000000001000/100000001000012442/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000012442 & live mode = 1 & stbId = 3
+CCTV-3综艺，http://111 . 20 . 35 . 107:6610/000000001000/100000001000011218/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000011218 & live mode = 1 & stbId = 3
+CCTV-3综艺，http://111 . 20 . 35 . 107:6610/000000001000/500000002000020548/index . m3 u8？channel-id = bestzb & Contentid = 5000000002000020548 & live mode = 1 & stbId = 3
+CCTV-4国际，http://111 . 20 . 35 . 107:6610/000000001000/100000002000031664/index . m3 u8？channel-id = ystenlive & Contentid = 1000000002000031664 & live mode = 1 & stbId = 3
+CCTV-5体育，http://111 . 20 . 35 . 107:6610/000000001000/100000001000004794/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000004794 & live mode = 1 & stbId = 3
+CCTV-5体育，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000016619/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000016619 & live mode = 1 & stbId = 3
+CCTV-5体育，http://39 . 134 . 24 . 166/db IPTV . sn . China mobile . com/PLTV/8888890/224/3221226395/index . m3u 8
+CCTV-5+体育，http://111 . 20 . 35 . 107:6610/000000001000/100000001000020505/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000020505 & live mode = 1 & stbId = 3
+CCTV-5+体育，http://39 . 134 . 24 . 166/db IPTV . sn . China mobile . com/PLTV/8888890/224/3221225761/index . m3u 8
+CCTV-6电影，http://111 . 20 . 35 . 107:6610/000000001000/100000001000016466/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000016466 & live mode = 1 & stbId = 3
+CCTV-6电影，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000018433/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000018433 & live mode = 1 & stbId = 3
+CCTV-6电影，http://mobile live-ds . ysp . CCTV . cn/ysp/2013693901 . m3 u8
+CCTV-7军事，http://111 . 20 . 35 . 107:6610/000000001000/100000001000017218/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000017218 & live mode = 1 & stbId = 3
+CCTV-8电视剧，http://111 . 20 . 35 . 107:6610/000000001000/100000001000003736/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000003736 & live mode = 1 & stbId = 3
+CCTV-8电视剧，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000018377/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000018377 & live mode = 1 & stbId = 3
+中央电视台第九频道记录，http://111 . 20 . 35 . 107:6610/000000001000/100000001000014583/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000014583 & live mode = 1 & stbId = 3
+中央电视台第九频道记录，http://111 . 20 . 35 . 107:6610/00000001000/6275371742726901431/index . m3 u8？channel-id = ystenlive & Contentid = 6275371742726901431 & live mode = 1 & stbId = 3
+CCTV-10科教，http://111 . 20 . 35 . 107:6610/000000001000/1000000010000026367/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000026367 & live mode = 1 & stbId = 3
+CCTV-10科教，http://111 . 20 . 35 . 107:6610/000000001000/500000004000012827/index . m3 u8？channel-id = bestzb & Contentid = 5000000004000012827 & live mode = 1 & stbId = 3
+CCTV-10科教，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000016738/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000016738 & live mode = 1 & stbId = 3
+CCTV-11戏曲，http://111 . 20 . 35 . 107:6610/000000001000/100000002000019789/index . m3 u8？channel-id = ystenlive & Contentid = 1000000002000019789 & live mode = 1 & stbId = 3
+CCTV-11戏曲，http://111 . 20 . 35 . 107:6610/00000001000/6351457414282570521/index . m3u 8？channel-id = ystenlive & Contentid = 6351457414282570521 & live mode = 1 & stbId = 3
+CCTV-12社会与法，http://111 . 20 . 35 . 107:6610/000000001000/100000001000001640/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000001640 & live mode = 1 & stbId = 3
+CCTV-13新闻，http://111 . 20 . 35 . 107:6610/000000001000/500000005000001827/index . m3 u8？channel-id = bestzb & Contentid = 5000000005000001827 & live mode = 1 & stbId = 3
+CCTV-14少儿，http://111 . 20 . 35 . 107:6610/000000001000/100000001000008170/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000008170 & live mode = 1 & stbId = 3
+CCTV-14少儿，http://111 . 20 . 35 . 107:6610/000000001000/500000004000006673/index . m3 u8？channel-id = bestzb & Contentid = 500000000400006673 & live mode = 1 & stbId = 3
+CCTV-14少儿，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000023358/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000023358 & live mode = 1 & stbId = 3
+CCTV-15音乐，http://111 . 20 . 35 . 107:6610/000000001000/100000002000008163/index . m3 u8？channel-id = ystenlive & Contentid = 1000000002000008163 & live mode = 1 & stbId = 3
+CCTV-17农业农村，http://111 . 20 . 35 . 107:6610/000000001000/100000005000056836/index . m3 u8？channel-id = ystenlive & Contentid = 1000000005000056836 & live mode = 1 & stbId = 3
+CGTN，http://111 . 20 . 35 . 107:6610/000000001000/100000002000009569/index . m3 u8？channel-id = ystenlive & Contentid = 100000000200009569 & live mode = 1 & stbId = 3
 
-卫视,#genre#
-中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-北京卫视,http://111.20.35.107:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=3
-北京卫视,http://111.20.35.107:6610/000000001000/1000000001000021288/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=3
-北京卫视,http://111.20.35.107:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
-北京卫视,http://111.20.35.107:6610/000000001000/5000000010000011502/index.m3u8?channel-id=bestzb&Contentid=5000000010000011502&livemode=1&stbId=3
-东方卫视,http://111.20.35.107:6610/000000001000/1000000001000005866/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=3
-东方卫视,http://111.20.35.107:6610/000000001000/1000000001000030202/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1&stbId=3
-东方卫视,http://111.20.35.107:6610/000000001000/5000000004000014098/index.m3u8?channel-id=bestzb&Contentid=5000000004000014098&livemode=1&stbId=3
-东方卫视,http://111.20.35.107:6610/000000001000/5000000010000032246/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=3
-天津卫视,http://111.20.35.107:6610/000000001000/1000000001000000831/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=3
-天津卫视,http://111.20.35.107:6610/000000001000/1000000001000003475/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=3
-天津卫视,http://111.20.35.107:6610/000000001000/5000000001000030788/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=3
-天津卫视,http://111.20.35.107:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3
-重庆卫视,http://111.20.35.107:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
-重庆卫视,http://111.20.35.107:6610/000000001000/5000000004000025797/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=3
+卫视，#流派#
+中文，http://play-flive . ifeng . com/live/06 olegegm4g . m3 u 8
+资讯，http://play-flive . ifeng . com/live/06 oleewqkn 4 . m3 u8
+北京卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000001000017156/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000017156 & live mode = 1 & stbId = 3
+北京卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000001000021288/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000021288 & live mode = 1 & stbId = 3
+北京卫视，http://111 . 20 . 35 . 107:6610/000000001000/500000004000031556/index . m3 u8？channel-id = bestzb & Contentid = 5000000004000031556 & live mode = 1 & stbId = 3
+北京卫视，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000011502/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000011502 & live mode = 1 & stbId = 3
+东方卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000001000005866/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000005866 & live mode = 1 & stbId = 3
+东方卫视，http://111 . 20 . 35 . 107:6610/000000001000/1000000010000030202/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000030202 & live mode = 1 & stbId = 3
+东方卫视，http://111 . 20 . 35 . 107:6610/000000001000/500000004000014098/index . m3 u8？channel-id = bestzb & Contentid = 5000000004000014098 & live mode = 1 & stbId = 3
+东方卫视，http://111 . 20 . 35 . 107:6610/000000001000/5000000010000032246/index . m3 u8？channel-id = bestzb & Contentid = 5000000010000032246 & live mode = 1 & stbId = 3
+天津卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000001000000831/index . m3 u8？channel-id = ystenlive & Contentid = 100000000100000831 & live mode = 1 & stbId = 3
+天津卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000001000003475/index . m3 u8？channel-id = ystenlive & Contentid = 1000000001000003475 & live mode = 1 & stbId = 3
+天津卫视，http://111 . 20 . 35 . 107:6610/000000001000/500000001000030788/index . m3 u8？channel-id = bestzb & Contentid = 5000000001000030788 & live mode = 1 & stbId = 3
+天津卫视，http://111 . 20 . 35 . 107:6610/000000001000/500000004000006827/index . m3 u8？channel-id = bestzb & Contentid = 500000000400006827 & live mode = 1 & stbId = 3
+重庆卫视，http://111 . 20 . 35 . 107:6610/000000001000/100000002000018937/index . m3 u8？channel-id = ystenlive & Contentid = 1000000002000018937 & live mode = 1 & stbId = 3
+重庆卫视，http://111 . 20 . 35 . 107:6610/000000001000/500000004000025797/index . m3 u8？channel-id = bestzb & Contentid = 5000000004000025797 & live mode = 1 & stbId = 3
 黑龙江卫视,http://111.20.35.107:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 黑龙江卫视,http://111.20.35.107:6610/000000001000/1000000001000009082/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1&stbId=3
 黑龙江卫视,http://111.20.35.107:6610/000000001000/5000000004000025203/index.m3u8?channel-id=bestzb&Contentid=5000000004000025203&livemode=1&stbId=3
