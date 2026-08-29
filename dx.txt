@@ -16,6 +16,7 @@ CCTV-社会与法,http://222.85.81.15:6060/PLTV1/260/index.m3u8?icpid=dxrm1&serv
 CCTV-新闻,http://222.85.81.15:6060/PLTV1/280/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-少儿频道,http://222.85.81.15:6060/PLTV1/300/index.m3u8?icpid=dxrm1&servicetype=
 CCTV-音乐,http://222.85.81.15:6060/PLTV1/320/index.m3u8?icpid=dxrm1&servicetype=
+CCTV奥运频道,http://222.85.69.145/PLTV/88888888/224/3221227280/index.m3u8
 CCTV-农业农村,http://222.85.81.15:6060/PLTV1/360/index.m3u8?icpid=dxrm1&servicetype=
 中国教育,http://222.85.81.15:6060/PLTV1/400/index.m3u8?icpid=dxrm1&servicetype=
 央视4K,http://222.85.69.145/PLTV/88888888/224/3221227244/index.m3u8
