@@ -15,7 +15,7 @@ CCTV-12,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?f
 CCTV-13,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226919/1.m3u8?fmt=ts2hls
 CCTV-14,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226958/1.m3u8?fmt=ts2hls
 CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226524/1.m3u8?fmt=ts2hls
-CCTV-16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227532/index.m3u8?fmt=ts2hls
+CCTV-16,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227532/1.m3u8?fmt=ts2hls
 CCTV-17,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?fmt=ts2hls
 
 CCTV-1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227262/index.m3u8
